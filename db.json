@@ -17,5 +17,26 @@
       "email": "abc@g.com",
       "profilePicURL":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
     }
-  ]
+  ],
+  "quizzes": [
+    {
+      "id": "quiz-1",
+      "title": "Python quiz 1",
+      "noOfQuestions": 10,
+      "timeToCompleteInSec": 300,
+      "badgeImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQuUnmYKEexjZx_jm52ueH3QP-UeXFE3N69DYDKZs7Vk7Mr6uO8"
+    },
+    {
+      "id": "quiz-1",
+      "title": "Python quiz 2",
+      "noOfQuestions": 15,
+      "timeToCompleteInSec": 3600,
+      "badgeImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQuUnmYKEexjZx_jm52ueH3QP-UeXFE3N69DYDKZs7Vk7Mr6uO8"
+    }
+  ],
+  "quiz-token": {
+    "quiz-1": {
+      "token": "qwertyuiopasdfghjklzxcvbnm"
+    },
+  }
 }
