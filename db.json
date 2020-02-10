@@ -27,7 +27,7 @@
       "bannerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQuUnmYKEexjZx_jm52ueH3QP-UeXFE3N69DYDKZs7Vk7Mr6uO8"
     },
     {
-      "id": "quiz-1",
+      "id": "quiz-2",
       "title": "Python quiz 2",
       "noOfQuestions": 15,
       "timeToCompleteInSec": 3600,
