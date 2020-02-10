@@ -36,8 +36,8 @@
   ],
   "quiz-token": [
     {
-      "id": "quiz-1",
-       "token": "qwertyuiopasdfghjklzxcvbnm"
+      "id": 1,
+      "token": "qwertyuiopasdfghjklzxcvbnm"
     }
   ]
 }
