@@ -34,9 +34,11 @@
       "bannerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQuUnmYKEexjZx_jm52ueH3QP-UeXFE3N69DYDKZs7Vk7Mr6uO8"
     }
   ],
-  "quiz-token": {
-    "quiz-1": {
-      "token": "qwertyuiopasdfghjklzxcvbnm"
+  "quiz-token": [
+    {
+      "quiz-1": {
+        "token": "qwertyuiopasdfghjklzxcvbnm"
+      }
     }
-  }
+  ]
 }
