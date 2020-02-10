@@ -24,20 +24,16 @@
       "title": "Python quiz 1",
       "noOfQuestions": 10,
       "timeToCompleteInSec": 300,
-      "bannerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQuUnmYKEexjZx_jm52ueH3QP-UeXFE3N69DYDKZs7Vk7Mr6uO8"
+      "bannerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQuUnmYKEexjZx_jm52ueH3QP-UeXFE3N69DYDKZs7Vk7Mr6uO8",
+      "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJxdWl6SWQiOiJxdWl6LTEiLCJyZWZTb3VyY2UiOiJGYWNlYm9vayIsInJlZkNvZGUiOiJGQl9DQU1QXzEiLCJ0eXBlIjoiUFVCTElDIn0.PSnjrmNLp1q-N6Affa4YsxAJZWftjji6jjMLUd242eo"
     },
     {
       "id": "quiz-2",
       "title": "Python quiz 2",
       "noOfQuestions": 15,
       "timeToCompleteInSec": 3600,
-      "bannerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQuUnmYKEexjZx_jm52ueH3QP-UeXFE3N69DYDKZs7Vk7Mr6uO8"
-    }
-  ],
-  "quiz-token": [
-    {
-      "id": 1,
-      "token": "qwertyuiopasdfghjklzxcvbnm"
+      "bannerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQuUnmYKEexjZx_jm52ueH3QP-UeXFE3N69DYDKZs7Vk7Mr6uO8",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJxdWl6SWQiOiJxdWl6LTIiLCJyZWZTb3VyY2UiOiJGYWNlYm9vayIsInJlZkNvZGUiOiJGQl9DQU1QXzEiLCJ0eXBlIjoiUFVCTElDIn0.o4Bs60fQxl40ZAa_KWsa3SfCdwmuGu158yJCe0E-GFI"
     }
   ]
 }
